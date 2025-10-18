@@ -1,4 +1,4 @@
-package com.fastjavaproject.fastjavaproject.login;
+package com.fastjavaproject.fastjavaproject.journalApp;
 
 import com.fastjavaproject.fastjavaproject.Dog;
 import org.springframework.beans.factory.annotation.Autowired;

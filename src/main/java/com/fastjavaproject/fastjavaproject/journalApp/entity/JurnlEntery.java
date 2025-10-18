@@ -1,4 +1,35 @@
-package com.fastjavaproject.fastjavaproject.journalApp.journlEntry;
+package com.fastjavaproject.fastjavaproject.journalApp.entity;
 
-public class jurnlEntery {
+public class JurnlEntery {
+    private  long id;
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public void setContent(String content) {
+        this.content = content;
+    }
+
+    private  String title;
+
+    private  String content;
+
+
 }

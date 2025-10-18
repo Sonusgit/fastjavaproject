@@ -1,4 +1,4 @@
-package something;
+package com.fastjavaproject.fastjavaproject;
 
 import org.springframework.stereotype.Component;
 
